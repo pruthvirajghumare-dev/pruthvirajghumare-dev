@@ -23,6 +23,7 @@ B.Sc. Computer Science Student | Aspiring Software Developer
 - Build real-world projects.
 - Improve my programming skills.
 - Learn new technologies.
+- 
 
 🌐 Connect With Me
 
