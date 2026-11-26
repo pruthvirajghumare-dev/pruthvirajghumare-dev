@@ -1,16 +1,34 @@
-## Hi there 👋
+Hi, I'm Pruthviraj Ghumare 👋
 
-<!--
-**pruthvirajghumare-dev/pruthvirajghumare-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+B.Sc. Computer Science Student | Aspiring Software Developer
 
-Here are some ideas to get you started:
+🎓 Third-year B.Sc. Computer Science student at Fergusson College (Autonomous), Pune.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Interested in Software Development, Web Development and Data Analytics.
+
+🚀 Skills & Technologies
+
+- Programming: C, C++, Java, Python, PHP
+- Web Development: HTML, CSS, JavaScript
+- Tools: VS Code, Git, GitHub
+
+📚 Currently Learning
+
+- Full-Stack Web Development
+- Software Development
+- Data Analytics
+
+🎯 Goals
+
+- Build real-world projects.
+- Improve my programming skills.
+- Learn new technologies.
+
+🌐 Connect With Me
+
+- GitHub: "@pruthvirajghumare-dev" (https://github.com/pruthvirajghumare-dev)
+- LinkedIn: Add your LinkedIn profile link here.
+
+---
+
+⭐ Thanks for visiting my profile!
