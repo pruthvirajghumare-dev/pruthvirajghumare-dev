@@ -28,7 +28,7 @@ B.Sc. Computer Science Student | Aspiring Software Developer
 🌐 Connect With Me
 
 - GitHub: "@pruthvirajghumare-dev" (https://github.com/pruthvirajghumare-dev)
-- LinkedIn: Add your LinkedIn profile link here.
+- LinkedIn:
 
 ---
 
